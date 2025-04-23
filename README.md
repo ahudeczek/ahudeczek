@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ahudeczek
-- 👀 I’m interested in HTML, CSS, PHP, JavaScript
-- 🌱 I’m currently learning Java, PHP, SQL
-- 💞️ I’m looking to collaborate on web design
+- 👀 I’m currently studying BioMedical Engineering
+- 🎓 Technical University of Ostrava
 - 📫 Reach me via an email: adamhudeczek04@gmail.com
 
 <!---
